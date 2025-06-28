@@ -1,5 +1,6 @@
 
 !In order to compile this you must have gfortran
+! gfortran quadraticFormula.f95 -o <whatever you want>
 
 ! Your input should be in this format -->  a b c
 ! For example, you input could be     -->  1 -3 2
