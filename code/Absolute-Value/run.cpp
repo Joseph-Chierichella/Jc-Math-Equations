@@ -1,6 +1,6 @@
 // This file is just a demonstration on how you can use the 
 // absoluteValue.f95 file, you don't need to use this file at
-// all! Feal free to use our code in your own c/c++ project
+// all! Feel free to use our code in your own c/c++ project
 
 
 // You need gfortran and g++ to compile this code
